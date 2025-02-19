@@ -1,0 +1,55 @@
+{
+  "" : {
+    "const-values" : "/Users/maxwellyoung/Development/maze/build/maze.build/Release-iphoneos/maze.build/Objects-normal/arm64/maze-master.swiftconstvalues",
+    "dependencies" : "/Users/maxwellyoung/Development/maze/build/maze.build/Release-iphoneos/maze.build/Objects-normal/arm64/maze-master.d",
+    "diagnostics" : "/Users/maxwellyoung/Development/maze/build/maze.build/Release-iphoneos/maze.build/Objects-normal/arm64/maze-master.dia",
+    "emit-module-dependencies" : "/Users/maxwellyoung/Development/maze/build/maze.build/Release-iphoneos/maze.build/Objects-normal/arm64/maze-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/maxwellyoung/Development/maze/build/maze.build/Release-iphoneos/maze.build/Objects-normal/arm64/maze-master-emit-module.dia",
+    "swift-dependencies" : "/Users/maxwellyoung/Development/maze/build/maze.build/Release-iphoneos/maze.build/Objects-normal/arm64/maze-master.swiftdeps"
+  },
+  "/Users/maxwellyoung/Development/maze/build/maze.build/Release-iphoneos/maze.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/maze.build/Release-iphoneos/maze.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/maxwellyoung/Development/maze/build/maze.build/Release-iphoneos/maze.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/maxwellyoung/Development/maze/build/maze.build/Release-iphoneos/maze.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  },
+  "/Users/maxwellyoung/Development/maze/maze/AppDelegate.swift" : {
+    "index-unit-output-path" : "/maze.build/Release-iphoneos/maze.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/maxwellyoung/Development/maze/build/maze.build/Release-iphoneos/maze.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/maxwellyoung/Development/maze/build/maze.build/Release-iphoneos/maze.build/Objects-normal/arm64/AppDelegate.o"
+  },
+  "/Users/maxwellyoung/Development/maze/maze/GameScene.swift" : {
+    "index-unit-output-path" : "/maze.build/Release-iphoneos/maze.build/Objects-normal/arm64/GameScene.o",
+    "llvm-bc" : "/Users/maxwellyoung/Development/maze/build/maze.build/Release-iphoneos/maze.build/Objects-normal/arm64/GameScene.bc",
+    "object" : "/Users/maxwellyoung/Development/maze/build/maze.build/Release-iphoneos/maze.build/Objects-normal/arm64/GameScene.o"
+  },
+  "/Users/maxwellyoung/Development/maze/maze/GameViewController.swift" : {
+    "index-unit-output-path" : "/maze.build/Release-iphoneos/maze.build/Objects-normal/arm64/GameViewController.o",
+    "llvm-bc" : "/Users/maxwellyoung/Development/maze/build/maze.build/Release-iphoneos/maze.build/Objects-normal/arm64/GameViewController.bc",
+    "object" : "/Users/maxwellyoung/Development/maze/build/maze.build/Release-iphoneos/maze.build/Objects-normal/arm64/GameViewController.o"
+  },
+  "/Users/maxwellyoung/Development/maze/maze/Source/Game/LevelLoader.swift" : {
+    "index-unit-output-path" : "/maze.build/Release-iphoneos/maze.build/Objects-normal/arm64/LevelLoader.o",
+    "llvm-bc" : "/Users/maxwellyoung/Development/maze/build/maze.build/Release-iphoneos/maze.build/Objects-normal/arm64/LevelLoader.bc",
+    "object" : "/Users/maxwellyoung/Development/maze/build/maze.build/Release-iphoneos/maze.build/Objects-normal/arm64/LevelLoader.o"
+  },
+  "/Users/maxwellyoung/Development/maze/maze/Source/Game/LevelManager.swift" : {
+    "index-unit-output-path" : "/maze.build/Release-iphoneos/maze.build/Objects-normal/arm64/LevelManager.o",
+    "llvm-bc" : "/Users/maxwellyoung/Development/maze/build/maze.build/Release-iphoneos/maze.build/Objects-normal/arm64/LevelManager.bc",
+    "object" : "/Users/maxwellyoung/Development/maze/build/maze.build/Release-iphoneos/maze.build/Objects-normal/arm64/LevelManager.o"
+  },
+  "/Users/maxwellyoung/Development/maze/maze/Source/Game/MainMenuScene.swift" : {
+    "index-unit-output-path" : "/maze.build/Release-iphoneos/maze.build/Objects-normal/arm64/MainMenuScene.o",
+    "llvm-bc" : "/Users/maxwellyoung/Development/maze/build/maze.build/Release-iphoneos/maze.build/Objects-normal/arm64/MainMenuScene.bc",
+    "object" : "/Users/maxwellyoung/Development/maze/build/maze.build/Release-iphoneos/maze.build/Objects-normal/arm64/MainMenuScene.o"
+  },
+  "/Users/maxwellyoung/Development/maze/maze/Source/Game/MazeScene.swift" : {
+    "index-unit-output-path" : "/maze.build/Release-iphoneos/maze.build/Objects-normal/arm64/MazeScene.o",
+    "llvm-bc" : "/Users/maxwellyoung/Development/maze/build/maze.build/Release-iphoneos/maze.build/Objects-normal/arm64/MazeScene.bc",
+    "object" : "/Users/maxwellyoung/Development/maze/build/maze.build/Release-iphoneos/maze.build/Objects-normal/arm64/MazeScene.o"
+  },
+  "/Users/maxwellyoung/Development/maze/maze/Source/Physics/PhysicsEngine.swift" : {
+    "index-unit-output-path" : "/maze.build/Release-iphoneos/maze.build/Objects-normal/arm64/PhysicsEngine.o",
+    "llvm-bc" : "/Users/maxwellyoung/Development/maze/build/maze.build/Release-iphoneos/maze.build/Objects-normal/arm64/PhysicsEngine.bc",
+    "object" : "/Users/maxwellyoung/Development/maze/build/maze.build/Release-iphoneos/maze.build/Objects-normal/arm64/PhysicsEngine.o"
+  }
+}

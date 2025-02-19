@@ -10,9 +10,22 @@
 		B47B22642D657DA300EBC25E /* maze.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = maze.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		B432422D2D65892300B43AC7 /* Exceptions for "maze" folder in "maze" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				"Supporting Files/Info.plist",
+			);
+			target = B47B22632D657DA300EBC25E /* maze */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		B47B22662D657DA300EBC25E /* maze */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				B432422D2D65892300B43AC7 /* Exceptions for "maze" folder in "maze" target */,
+			);
 			path = maze;
 			sourceTree = "<group>";
 		};
